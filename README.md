@@ -1,5 +1,4 @@
 ### Pete Wilcock
-[![Twitter](https://img.shields.io/twitter/follow/WilcockPete?style=social)](https://twitter.com/WilcockPete)
 
 9x AWS Certified DevOps Consultant, AWS Authorized Instructor, AWS Community Builder, and Technical Writer for [TechToSpeech.com](https://www.techtospeech.com). 
 
